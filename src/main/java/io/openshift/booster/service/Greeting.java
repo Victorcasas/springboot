@@ -16,6 +16,7 @@
  */
 package io.openshift.booster.service;
 
+//
 public class Greeting {
 
     private final String content;
